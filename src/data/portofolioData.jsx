@@ -9,7 +9,7 @@ export const portfolioData = {
     projects: [
       {
         id: 1,
-        img: "src/assets/projects/NFTMarketplace.png",
+        img: "/assets/projects/NFTMarketplace.png",
         title: "NFT Marketplace",
         subtitle: "My graduation project",
         desc: "This project building the web application using blockchain technology for people who want to create, collect and trade NFT (Non-fungible token) on some blockchain network.",
@@ -26,7 +26,7 @@ export const portfolioData = {
       },
       {
         id: 2,
-        img: "src/assets/projects/DatingApp.png",
+        img: "/assets/projects/DatingApp.png",
         title: "Dating Web Application",
         subtitle:
           "Connecting users with shared interests, enabling them to create groups and events for meetups.",
@@ -44,7 +44,7 @@ export const portfolioData = {
       },
       {
         id: 3,
-        img: "src/assets/projects/SecondHandWeb.png",
+        img: "/assets/projects/SecondHandWeb.png",
         title: "Second Hand Store Web Application",
         subtitle:
           "For study purposes, designed to display product pages for selling items.",
@@ -64,15 +64,15 @@ export const portfolioData = {
     certificates: [
       {
         id: 1,
-        img: "src/assets/certs/az204.png",
+        img: "/assets/certs/az204.png",
       },
       {
         id: 2,
-        img: "src/assets/certs/az900.png",
+        img: "/assets/certs/az900.png",
       },
       {
         id: 3,
-        img: "src/assets/certs/ai900.png",
+        img: "/assets/certs/ai900.png",
       },
     ],
 

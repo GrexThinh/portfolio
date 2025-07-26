@@ -9,7 +9,7 @@ const homeData = {
   description: `I'm a fullstack developer with over 3 years of experience in building web applications. I
     have a strong interest in science and technology, which drives my continuous learning and enthusiasm for
     exploring innovative solutions in software engineering.`,
-  img: "src/assets/profile.jpg",
+  img: "/assets/profile.jpg",
   buttons: [
     {
       label: "Explore My Project",

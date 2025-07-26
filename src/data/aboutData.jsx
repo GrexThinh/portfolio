@@ -1,7 +1,7 @@
 const aboutData = {
     title: "About Me",
     subtitle: "Discover my journey, passions, and the story behind my work",
-    image: "src/assets/profile2.jpg",
+    image: "/assets/profile2.jpg",
 
     biodata: [
         { label: "Name", value: "Nguyen Van Thinh", icon: "bx bx-id-card" },
